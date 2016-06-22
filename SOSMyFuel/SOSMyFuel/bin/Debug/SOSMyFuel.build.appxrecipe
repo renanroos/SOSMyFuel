@@ -9,52 +9,52 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>789ed7d3-88b1-472f-9b5d-d5b1c48bb1d2</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.exe">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.exe">
       <PackagePath>SOSMyFuel.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.xr.xml">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.xr.xml">
       <PackagePath>SOSMyFuel.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Text.RegularExpressions;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
@@ -44,6 +45,27 @@ namespace SOSMyFuel
             // If you are using the NavigationHelper provided by some templates,
             // this event is handled for you.
             
+        }
+
+        private void btnCalcular_Click(object sender, RoutedEventArgs e)
+        {
+            int litros;
+            int media;
+
+            if (txtKms.Text == "" || txtPreco.Text == "" || txtValor.Text == "")
+            {
+                lblResultado.Text = "Preencha todos os campos para prosseguir!";
+            }
+            else if (Regex.IsMatch(txtKms.Text, @"^[a-zA-Z]+$") || Regex.IsMatch(txtPreco.Text, @"^[a-zA-Z]+$") || Regex.IsMatch(txtValor.Text, @"^[a-zA-Z]+$"))
+            {
+                lblResultado.Text = "Os campos acima aceitam apenas números!";
+            }
+            else
+            {
+                litros = CalculaMedia.calculaLitros(int.Parse(txtPreco.Text), int.Parse(txtValor.Text));
+                media = CalculaMedia.calculaMedia(int.Parse(txtKms.Text), litros);
+                lblResultado.Text = string.Format("O seu automóvel usou {litros} litros de combustível e está fazendo {media} quilômetros por litro de combustível :)");
+            }
         }
     }
 }
