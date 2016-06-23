@@ -8,14 +8,16 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+    <!-- Renan Roos - 21/06/2016 - Criação dos campos da tela principal do sistema -->
     <Grid>
         <TextBlock x:Name="lblKms" HorizontalAlignment="Stretch" Margin="13,29,183,0" TextWrapping="Wrap" Text="Km's:" VerticalAlignment="Top" Height="38" FontSize="15"/>
         <TextBlock x:Name="lblPreco" HorizontalAlignment="Stretch" Margin="13,79,132,0" TextWrapping="Wrap" Text="Preço do Combustível:" VerticalAlignment="Top" Height="38" FontSize="15"/>
         <TextBlock x:Name="lblValor" HorizontalAlignment="Stretch" Margin="13,129,157,0" TextWrapping="Wrap" Text="Valor Abastecido:" VerticalAlignment="Top" Height="38" FontSize="15"/>
         <TextBox x:Name="txtKms" HorizontalAlignment="Left" Margin="203,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
         <Button x:Name="btnCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="203,193,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.029,-0.259" Width="183" Click="btnCalcular_Click"/>
-        <TextBlock x:Name="lblResultado" HorizontalAlignment="Left" Margin="15,266,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="45" Width="368"/>
+        <TextBlock x:Name="lblResultado" HorizontalAlignment="Left" Margin="11,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="84" FontSize="15" Width="368" SelectionChanged="lblResultado_SelectionChanged" Text=""/>
         <TextBox x:Name="txtValor" HorizontalAlignment="Left" Margin="203,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
         <TextBox x:Name="txtPreco" HorizontalAlignment="Left" Margin="203,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
+        <TextBlock x:Name="lblValor_Copy" HorizontalAlignment="Stretch" Margin="9,264,161,0" TextWrapping="Wrap" Text="Resultado:" VerticalAlignment="Top" Height="38" FontSize="15"/>
     </Grid>
 </Page>
