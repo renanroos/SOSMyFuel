@@ -1,0 +1,21 @@
+Layout: MainPage.xaml
+	txtKms: TextBox que recebe a quantidade de quilometros efetuada
+	txtPreco: TextBox que recebe o preco por litro da gasolina
+	txtValor: TextBox que recebe o valor abastecido
+	btnCalcular: Button que chama o metodo click do mesmo, que ira realizar os calculos
+	
+Classe que chama os metodos principais e apresenta o resultado: MainPage.xaml.cs
+	Chama o metodo calculaLitros e salva o resultado na variavel litros
+		Parametros: 
+			Valor inserido no txtPreco
+			Valor inserido no txtValor
+	Chama o metodo calculaMedia e salva o resultado na variavel media
+		Parametros:
+			Variavel litros
+			Valor inserido no txtKms
+	Apresenta os resultados na label lblResultado da seguinte forma:
+		Quantidade litros abastecidos e media de consumo do veículo considerando os dados informados
+			
+Classe que efetua os calculos: CalculaMedia.cs
+	Metodo que realiza o calculo de litros gastos: calculaLitros
+	Metodo que realiza o calculo da media de consumo: calculaMedia
