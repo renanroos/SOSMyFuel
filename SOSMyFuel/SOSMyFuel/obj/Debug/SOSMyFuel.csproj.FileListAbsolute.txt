@@ -30,16 +30,6 @@ c:\users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFue
 c:\users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\obj\Debug\qualifiers.txt.intermediate
 c:\users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\renan\onedrive\documents\visual studio 2015\Projects\SOSMyFuel\SOSMyFuel\obj\Debug\ProjectArchitectures.txt
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.g.i.cs
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.g.cs
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.g.i.cs
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.g.cs
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\XamlTypeInfo.g.cs
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.xaml
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.xbf
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\XamlSaveStateFile.xml
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\SOSMyFuel.exe
-C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\SOSMyFuel.pdb
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\App.xbf
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\MainPage.xbf
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.xr.xml
@@ -48,8 +38,18 @@ C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.pd
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\resources.pri
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\AppxManifest.xml
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\bin\Debug\SOSMyFuel.build.appxrecipe
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.g.i.cs
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.g.cs
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.g.i.cs
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.g.cs
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.xaml
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\App.xbf
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\XamlSaveStateFile.xml
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.xaml
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\MainPage.xbf
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\SOSMyFuel.exe
+C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\SOSMyFuel.pdb
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\priconfig.xml
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\priconfig.xml.intermediate
 C:\Users\renan\Source\Repos\SOSMyFuel\SOSMyFuel\SOSMyFuel\obj\Debug\layout.resfiles

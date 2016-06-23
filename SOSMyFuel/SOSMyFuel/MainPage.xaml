@@ -15,7 +15,7 @@
         <TextBlock x:Name="lblValor" HorizontalAlignment="Stretch" Margin="13,129,157,0" TextWrapping="Wrap" Text="Valor Abastecido:" VerticalAlignment="Top" Height="38" FontSize="15"/>
         <TextBox x:Name="txtKms" HorizontalAlignment="Left" Margin="203,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
         <Button x:Name="btnCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="203,193,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.029,-0.259" Width="183" Click="btnCalcular_Click"/>
-        <TextBlock x:Name="lblResultado" HorizontalAlignment="Left" Margin="11,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="84" FontSize="15" Width="368" SelectionChanged="lblResultado_SelectionChanged" Text=""/>
+        <TextBlock x:Name="lblResultado" HorizontalAlignment="Left" Margin="11,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="84" FontSize="15" Width="368" Text=""/>
         <TextBox x:Name="txtValor" HorizontalAlignment="Left" Margin="203,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
         <TextBox x:Name="txtPreco" HorizontalAlignment="Left" Margin="203,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontSize="25"/>
         <TextBlock x:Name="lblValor_Copy" HorizontalAlignment="Stretch" Margin="9,264,161,0" TextWrapping="Wrap" Text="Resultado:" VerticalAlignment="Top" Height="38" FontSize="15"/>
